@@ -1,2 +1,6 @@
-# Reinforcement_Learning_projects
-This repository works as a [General Wiki](https://github.com/CheloGE/Reinforcement_Learning_projects/wiki) that links to all other repositories related to Reinforcement Learning projects
+# Welcome to the Reinforcement Learning projects Repo!
+
+Here we will list all repositories that are related to Reinforcement Learning I'm working on:
+
+1. [DQN robot navigation](https://github.com/CheloGE/DQN_robot_navigation)
+2. [DDPG Robot arm control](https://github.com/CheloGE/Robot_arm_Reinforcement_learning_control)

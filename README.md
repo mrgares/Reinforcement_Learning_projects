@@ -1,4 +1,4 @@
-# Welcome to the Reinforcement Learning projects Repo!
+# Welcome to the Reinforcement Learning projects repo
 
 Here we will list all repositories that are related to Reinforcement Learning I'm working on:
 
